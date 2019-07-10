@@ -9,7 +9,7 @@ Technology Standards for a non-dystopian cyberpunk future
 * Restore and guarantee full ownership of purchased products to their purchasers - separate products from services, support and build open standards with limited licensing fees (only to ensure quality), and for hardware,  enable 3rd party repairs and user-replaceable components
 * Support rollback of DMCA-like laws and aggressively support tinkering and reversing of owned products, leverage these as part of market research and ideation (e.g. iPhone rooting innovations brought app folders, new swipe-to-access control panels, and night-time modes)
 
-## SUSTAINABILITY AND TRANSPARENCY
+### SUSTAINABILITY AND TRANSPARENCY
 
 * Aim for long-term implementations and require backwards compatibility (e.g. don't be Apple)
 * Open APIs and Standards: Embrace and support independent developers and open source tools by adopting and sticking with standards, providing extensive documentation, and directly supporting adaptations and independent projects instead of exporting the labor cost to volunteer developers.
